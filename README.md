@@ -129,5 +129,3 @@ fitness-network/
 - [ ] 위치 기반 추천
 
 ---
-
-Made with ❤️ in Seoul
